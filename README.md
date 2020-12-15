@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Im a current PhD student at The University of Sydney working on housing market modelling.
+Im a current PhD student at The University of Sydney working on economic decision making (specifically within housing markets).
+
+Previously I completed my MSc in Machine Learning at Victoria University of Wellington.
+
+My research lies at the intersection of Complexity and Machine Learning. 
 
 Feel free to check out my current publications: https://scholar.google.com/citations?user=yfrOml0AAAAJ
 
