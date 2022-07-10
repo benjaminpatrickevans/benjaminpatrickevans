@@ -6,7 +6,4 @@ Previously I completed my MSc in Machine Learning at Victoria University of Well
 
 ### Links
 
-
-[Google Scholar](https://scholar.google.com/citations?user=yfrOml0AAAAJ)
-
-[LinkedIn](https://scholar.google.com/citations?user=yfrOml0AAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminpatrickevans) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-orange?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=yfrOml0AAAAJ)
