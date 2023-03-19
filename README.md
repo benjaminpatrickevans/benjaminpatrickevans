@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im a current PhD student in Computer Science at the Centre for Complex Systems at The University of Sydney. I work on multi-agent systems, mainly with applications in computational economics. 
+Im a current PhD student in Computer Science at the Centre for Complex Systems at The University of Sydney. I work on multi-agent systems, mainly with applications in market modelling.
 
 Previously I completed my MSc in Machine Learning at Victoria University of Wellington. 
 
